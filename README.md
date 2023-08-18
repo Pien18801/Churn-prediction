@@ -1,2 +1,2 @@
 # Churn-prediction
-Sử dụng thuật toán Logistic Regression để dự đoán sự rời đi của khách hàng với PySpark
+Phân tích EDA và xây dựng các mô hình machine learning để dự đoán sự rời đi của khác hàng
